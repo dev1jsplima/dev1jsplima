@@ -1,6 +1,8 @@
 - 👋 Josué Pedroso de Lima
-- Info - 1/3
-- Etec Antônio Furlan
+- 💻 Informática para Internet - 1/3 - Etec
+- 🛐 CCB
+- 🎺Aprendiz de trompete
+
 
 <!---
 dev1jsplima/dev1jsplima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
