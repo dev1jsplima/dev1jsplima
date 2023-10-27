@@ -1,7 +1,7 @@
 - 👋 Josué Pedroso de Lima
 - 💻 Informática para Internet - 1/3 - Etec
 - 🛐 CCB
-- 🎺Aprendiz de trompete
+- 🎺Aprendendo trompete
 
 ![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev1jsplima&theme=radical&show_icons=true)
 
