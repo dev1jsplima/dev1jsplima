@@ -1,5 +1,5 @@
 - 👋 Josué Pedroso de Lima
-- 💻 Informática para Internet - 1/3 - Etec
+- 💻 Informática para Internet - 2/3 - Etec
 - 🛐 CCB
 - 🎺Aprendendo trompete
 
@@ -14,7 +14,7 @@
 <img align="center" alt="Josue-PHP" height ="40" width ="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="Josue-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img align="center" alt="Josue-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-
+<img align="center" alt="Josue-Kotlin" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 <!---
 dev1jsplima/dev1jsplima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
