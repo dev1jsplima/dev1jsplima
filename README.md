@@ -16,7 +16,7 @@
 <img align="center" alt="Josue-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="center" alt="Josue-Kotlin" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 <img align="center" alt="Josue-React" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="center" alt="Josue-Nodejs" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg"/>
+<img align="center" alt="Josue-Nodejs" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <!---ode
 dev1jsplima/dev1jsplima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
