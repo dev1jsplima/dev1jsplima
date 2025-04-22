@@ -1,5 +1,5 @@
 - 👋 Josué Pedroso de Lima
-- 💻 Informática para Internet - 2/3 - Etec
+- 💻 Informática para Internet - 3/3 - Etec Antônio Furlan
 - 🛐 CCB
 - Todo dia aprendendo algo novo...
 
